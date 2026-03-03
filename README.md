@@ -4,7 +4,7 @@ A PostgreSQL + Grafana open source alternative to Oracle's ADW + Oracle Analytic
 
 ## Why This Exists
 
-This is an alternative to Autonomous Data Warehouse and Oracle Analytics Cloud that you might have seen here:
+This is an alternative to another OCI FinOps project that you might have seen here:
 
 https://blogs.oracle.com/futurestate/enhance-oci-cost-usage-analytics-using-oac
 
