@@ -8,6 +8,10 @@ This is an alternative to another OCI FinOps project that you might have seen he
 
 https://blogs.oracle.com/futurestate/enhance-oci-cost-usage-analytics-using-oac
 
+or here:
+
+https://github.com/oracle-samples/usage-reports-to-adw
+
 Credit where credit is due. However, this project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
 
 ## Features
