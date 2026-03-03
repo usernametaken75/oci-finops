@@ -1,4 +1,4 @@
-# OCI FinOps Alternative Cost Intelligence Platform 
+# An OCI FinOps Alternative Cost Intelligence Platform 
 
 A PostgreSQL + Grafana open source alternative to Oracle's ADW + Oracle Analytics Cloud stack for OCI cost analysis. Ingests OCI FOCUS (FinOps Open Cost & Usage Specification) reports and provides dashboards, budget tracking, and anomaly detection.
 
