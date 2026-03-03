@@ -1,10 +1,10 @@
 # OCI FinOps Cost Intelligence Platform
 
-A PostgreSQL + Grafana replacement for Oracle's ADW + Oracle Analytics Cloud stack for OCI cost analysis. Ingests OCI FOCUS (FinOps Open Cost & Usage Specification) reports and provides dashboards, budget tracking, and anomaly detection.
+A PostgreSQL + Grafana open source alternative to Oracle's ADW + Oracle Analytics Cloud stack for OCI cost analysis. Ingests OCI FOCUS (FinOps Open Cost & Usage Specification) reports and provides dashboards, budget tracking, and anomaly detection.
 
 ## Why This Exists
 
-Oracle's recommended FinOps stack uses Autonomous Data Warehouse (~$300-800/mo) and Oracle Analytics Cloud (~$400-2,500/mo). This project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
+Oracle's recommended FinOps stack uses Autonomous Data Warehouse and Oracle Analytics Cloud. This project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
 
 ## Features
 
