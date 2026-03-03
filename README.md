@@ -4,7 +4,11 @@ A PostgreSQL + Grafana open source alternative to Oracle's ADW + Oracle Analytic
 
 ## Why This Exists
 
-Oracle's recommended FinOps stack uses Autonomous Data Warehouse and Oracle Analytics Cloud. This project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
+This is an alternative to Autonomous Data Warehouse and Oracle Analytics Cloud that you might have seen here:
+
+https://blogs.oracle.com/futurestate/enhance-oci-cost-usage-analytics-using-oac
+
+Credit where credit is due. However, this project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
 
 ## Features
 
