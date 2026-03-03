@@ -12,8 +12,6 @@ or here:
 
 https://github.com/oracle-samples/usage-reports-to-adw
 
-Credit where credit is due. However, this project replaces both with PostgreSQL and Grafana, reducing the cost of monitoring your costs.
-
 ## Features
 
 - **ETL Pipeline** — Incremental ingestion of OCI FOCUS cost reports from Object Storage
